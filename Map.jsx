@@ -146,8 +146,6 @@ class Map extends Component {
     }
 
     getMyPosition = () => {
-        /** NOT ABLE TO TEST DUE TO TELIA BLOCK */
-
         //if (navigator.geolocation) {
         //    const options = {
         //        enableHighAccuracy: true,
